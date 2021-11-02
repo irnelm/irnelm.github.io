@@ -1,6 +1,5 @@
 ![irnelm](https://dl.irnelm.ir/logo.png)
-## Welcome to irnelm server
-
+## Welcome to irnelm minecraft server
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
