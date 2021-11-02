@@ -2,7 +2,7 @@
 ## Welcome to irnelm minecraft server
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+for irnelm lovers 
 
 ```python
 print("hello irnelm")
