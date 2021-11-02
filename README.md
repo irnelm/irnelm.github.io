@@ -1,3 +1,4 @@
+![Image of Yaktocat](https://dl.irnelm.ir/logo.png)
 ## Welcome to irnelm server
 
 ### Markdown
