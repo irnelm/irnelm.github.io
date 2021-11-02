@@ -1,4 +1,4 @@
-![irnelm](https://dl.irnelm.ir/logo.png)
+### ![irnelm](https://dl.irnelm.ir/logo.png)
 ## Welcome to irnelm minecraft server
 ### Markdown
 
